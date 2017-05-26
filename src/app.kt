@@ -1,3 +1,5 @@
-package com.napolux.ioprogrammo
+package it.ioprogrammo.kotlin
 
-fun main()
+fun main(args: Array<String>) {
+    println("Hello World!")
+}
