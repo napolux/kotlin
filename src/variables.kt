@@ -29,6 +29,4 @@ fun main(args: Array<String>) {
     nullable = "Mario"
 
     var notNullable: String = "abc"
-    notNullable = null // Errore!
-    
 }
